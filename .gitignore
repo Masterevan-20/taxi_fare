@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files (if they're too large)
+# uber.csv  # Uncomment if the dataset is too large
+# uber_cleaned.csv  # Uncomment if the cleaned dataset is too large
+
+# System files
+.DS_Store
+Thumbs.db
